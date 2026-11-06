@@ -71,8 +71,8 @@ Para realizar tu contribución sin interferir con el trabajo del resto del equip
 
 A continuación se muestra la lista oficial de desarrolladores que han contribuido al código base de la aplicación. **Añade tu nombre al final de la lista durante tu ejercicio:**
 
-* **[Nombre Apellido]** - Desarrollador/a | Rama: `feature/nombre-funcion`
-* Lucia - Desaro
+* **** [Nombre Apellido] - Desarrollador/a | Rama: feature/nombre-funcion
+Manuel Pavon - Junior
 
 ---
 
